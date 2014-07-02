@@ -1,0 +1,1167 @@
+{
+  "groups": [
+    {
+      "title": "Atlanta",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Atlanta",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/openstack-atlanta" },
+         { "irc": "irc://irc.freenode.net/openstack-atlanta%7C#openstack-atlanta" },
+         { "coordinators": "Doug Hellmann;Mark McClain" },
+         { "coordinator-emails": "doug.hellmann@gmail.com;mark.mcclain@dreamhost.com" }
+      ]
+    },
+    {
+      "title": "Austin",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Austin, TX",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/openstack-austin" },
+         { "coordinators": "Jean Maire Martini;Rob Hirschfeld" },
+         { "coordinator-emails": "rob_hirschfeld@dell.com; simon_jakesch@dell.com; jean_marie_martini@dell.com" }
+
+      ]
+    },
+    {
+      "title": "Boston",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Boston",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Openstack-Boston" },
+        { "coordinator-emails": "Kamesh_Pemmaraju@Dell.com" },
+        { "meetup": "http://www.meetup.com/Openstack-Boston/" }
+      ]
+    },
+    {
+      "title": "Canada",
+      "location": {
+        "country": "CA",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/Canadian-OpenStack-Users-Group" },
+         { "website": "http://canstack.ca" },
+         { "twitter": "@canstack" },
+         { "blog": "http://blog.canstack.ca" },
+         { "irc": "#canstack" },
+         { "meetup": "http://www.meetup.com/OpenStackTO" },
+         { "google-groups": "http://groups.google.com/group/canada-openstack-user-group" },
+         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Canada-4151460" },
+         { "google-groups": "http://groups.google.com/group/openstack-canada" },
+         { "coordinators": "Curtis Collicutt;Barton Satchwill;Adin;Jonathan LeLous" },
+         { "coordinator-emails": " curtis.collicutt@cybera.ca;barton.satchwill@cybera.ca; adin@scannell.ca; jonathan.lelous@gmail.com" }
+      ]
+    },
+    {
+      "title": "Chicago",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Chicago",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/meetup-group-NjZdcegA" },
+        { "coordinators": "Margie Callard" },
+        { "coordinator-emails": "margie@openstack.org" }
+      ]
+    },
+    {
+      "title": "Cincinnati",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "coordinators": "Bev Corwin" },
+        { "coordinator-emails": "bevcorwin@gmail.com" },
+        { "meetup": "http://www.meetup.com/openstack-cincinnati/" }
+      ]
+    },
+    {
+      "title": "Colorado (Northern)",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Colorado" },
+        { "coordinators": "David Medberry" },
+        { "coordinator-emails": "david.medberry@canonical.com" }
+      ]
+    },
+    {
+      "title": "Colorado (Denver Metro/South)",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Denver",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Denver" },
+        { "twitter": "#OSROCK" },
+        { "coordinators": "Scott Lowe" },
+        { "coordinator-emails": "scott.lowe@scottlowe.org" }
+      ]
+    },
+    {
+      "title": "Columbus",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Donovan Johnson" },
+         { "meetup": "http://www.meetup.com/OpenStack-Ohio-User-Group/" }
+      ]
+    },
+
+
+    {
+      "title": "Connecticut",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Openstack-Connecticut" },
+        { "google-plus": "https://plus.google.com/u/0/communities/106463180296945913906#OpenStackCT" },
+        { "twitter": "@OpenStackCT" },
+        { "coordinators": "Fran Loehmann;James Ruddy;Kenneth Hui" },
+        { "coordinator-emails": "fran.loehmann@gmail.com;ruddy.james@gmail.com;ken.hui@rackspace.com" }
+      ]
+    },
+    {
+      "title": "Dallas Fort Worth",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-DFW" },
+        { "coordinators": "Lance Braswell" },
+        { "twitter": "#OSDFW" }
+      ]
+    },
+
+    {
+      "title": "Washington, DC Metro Area",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Washington DC",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStackDC" },
+        { "linkedin": "http://www.linkedin.com/groups?gid=4207039" },
+        { "coordinators": "Haisam Idol" },
+        { "coordinator-emails": "haisam.ido@gmail.com" },
+        { "twitter": "@OpenStackDC" }
+      ]
+    },
+    {
+      "title": "Florida",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://www.linkedin.com/groups?gid=4762393" },
+        { "facebook": "http://www.facebook.com/FloridaOpenstack" },
+        { "google-groups": "https://groups.google.com/d/forum/openstack-florida" },
+        { "coordinators": "Trevor Lowing" },
+        { "coordinator-emails": "trevor.lowing@gmail.com" }
+      ]
+    },
+    {
+      "title": "Indiana",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://tinyurl.com/7k8b7mr" },
+        { "forum": "https://portal.futuregrid.org/forums/fg-user-services-forum/openstack" },
+        { "coordinators": "Gregor von Laszewski" },
+        { "coordinator-emails": "laszewski@gmail.com" }
+      ]
+    },
+    {
+      "title": "Kentucky",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Kentucky" },
+        { "coordinators": "Cody Bumgardner" },
+        { "coordinator-emails": "cbumgardner@gmail.com" }
+      ]
+    },
+    {
+      "title": "Los Angeles",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Los Angeles",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-LA" },
+        { "linkedin": "http://www.linkedin.com/groups?gid=4327316" },
+        { "twitter": "#OSLAX" },
+        { "coordinators": "Mike Perez;Matthew Wodrich " },
+        { "coordinator-emails": "mike.perez@dreamhost.com;matt.wodrich@dreamhost.com" },
+        { "website": "http://vimeopro.com/dreamhost/openstack-la-meetup" }
+      ]
+    },
+    {
+      "title": "Michigan",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "coordinators": "Eric Detterman" },
+        { "coordinator-emails": "eric.detterman@solidlogic.com" }
+      ]
+    },
+    {
+      "title": "Minnesota",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Kyle Mestery" },
+         { "coordinator-emails": "kmestery@cisco.com" },
+         { "twitter": "@OpenStackMN" },
+         { "linkedin": "http://www.linkedin.com/groups/Twin-Cities-OpenStack-Users-Group-4430771" }
+      ]
+    },
+
+
+    {
+      "title": "New York City",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "New York City",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "website": "http://www.meetup.com/OpenStack-New-York-Meetup/" },
+         { "twitter": "@OpenStackNYC" },
+         { "twitter": "#OpenStackNYC" },
+         { "email": "openstacknyc@gmail.com" },
+         { "coordinators": "Denis Guyadeen;Judd Maltin;Kenneth Hui;Steve Pessah" },
+         { "coordinator-emails": "denis.guyadeen@emc.com;judd@newgoliath.com;ken.hui@rackspace.com;steve@appfirst.com" }
+      ]
+    },
+    {
+      "title": "North Carolina",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Triangle-OpenStack-Meetup/" }
+      ]
+    },
+    {
+      "title": "Philadelphia",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Philadelphia",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Philly-OpenStack-Meetup-Group" },
+        { "twitter": "@OpenStackPhilly" },
+        { "twitter": "#OpenStackPhilly" },
+        { "coordinators": "Kenneth Hui;Paul Richards;Sean Collins;Wes Yeager" },
+        { "coordinator-emails": "ken.hui@rackspace.com;epaulrichards@gmail.com;wesyeager@cisco.com" }
+      ]
+    },
+    {
+      "title": "San Antonio, TX",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "San Antonio, TX",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/SA-Open-Stackers/" },
+        { "google-plus": "https://plus.google.com/communities/104303691151444174690" },
+        { "coordinators": "Max Wen" },
+        { "coordinator-emails": "mobiwen@gmail.com" }
+      ]
+    },
+    {
+      "title": "San Francisco Bay Area",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "San Francisco, CA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/openstack" },
+        { "coordinators": "Joe Arnold;Sean Roberts;Colin McNamara;Randy Bias" },
+        { "coordinator-emails": "joe@swiftstack.com;seanrob@yahoo-inc.com; colin@2cups.com; randyb@cloudscaling.com" }
+      ]
+    },
+    {
+      "title": "Seattle",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Seattle",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Seattle" },
+        { "calendar": "http://www.meetup.com/OpenStack-Seattle/events/calendar" },
+        { "coordinators": "Mark Atwood;Joe Heck" },
+        { "coordinator-emails": "mark.atwood@hp.com;heckj@mac.com" }
+      ]
+    },
+    {
+      "title": "Utah",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Utah",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/utah-openstack" },
+        { "coordinators": "Brandon Toone" }
+      ]
+    },
+    {
+      "title": "Africa",
+      "location": {
+        "country": "",
+        "continent": "AF",
+        "location": "Africa",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "google-plus": "https://plus.google.com/u/0/communities/106463180296945913906" },
+        { "coordinators": "Adam Nelson"},
+        { "coordinator-emails": "adam@kili.io"}
+      ]
+    },
+    {
+      "title": "Kenya",
+      "location": {
+        "country": "KE",
+        "continent": "AF",
+        "location": "Nairobi",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Nairobi" }
+      ]
+    },
+    {
+      "title": "Nigeria",
+      "location": {
+        "country": "NG",
+        "continent": "AF",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+      ]
+    },
+    {
+      "title": "Australia",
+      "location": {
+        "country": "AU",
+        "continent": "OC",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://aosug.openstack.org.au" },
+        { "google-groups": "http://groups.google.com/group/openstack-au" },
+        { "coordinators": "Tristan Goode;Tom Fifield" },
+        { "coordinator-emails": "tristan@aptira.com;tom@openstack.org" },
+        { "twitter": "@OpenStackAU" }
+      ]
+    },
+    {
+      "title": "New Zealand",
+      "location": {
+        "country": "NZ",
+        "continent": "OC",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/New-Zealand-OpenStack-User-Group" }
+      ]
+    },
+    {
+      "title": "China",
+      "location": {
+        "country": "CN",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "google-groups": "http://groups.google.com/group/china-openstack-user-group" },
+        { "weibo": "@OpenStack" },
+        { "coordinators": "Hui Cheng;Yujie Du;Ye Lu" },
+        { "coordinator-emails": "freedomhui@gmail.com;duyujie.dyj@gmail.com;yeluaiesec@gmail.com" }
+      ]
+    },
+    {
+      "title": "Hong Kong",
+      "location": {
+        "country": "HK",
+        "continent": "AS",
+        "location": "Hong Kong",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "website": "http://osug.cyberport.hk/" },
+        { "facebook": "https://www.facebook.com/groups/hkosug/" },
+        { "forum": "https://groups.google.com/d/forum/hong-kong-cloud-technology-sig" },
+        { "google-plus": "https://plus.google.com/u/0/communities/112611801924078008731" },
+        { "coordinators": "Raymond Chan;Alison Tam" },
+        { "coordinator-emails": "raymondchan@cyberport.hk;alisontam@cyberport.hk" }
+      ]
+    },
+    {
+      "title": "India",
+      "location": {
+        "country": "IN",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "website": "http://openstackindia.wordpress.com/" },
+        { "meetup": "http://www.meetup.com/Indian-OpenStack-User-Group" },
+        { "mailing-list": "openstackindia@librelist.com" },
+        { "facebook": "http://www.facebook.com/groups/328814400511881" },
+        { "linkedin": "http://www.linkedin.com/groups/OpenStack-India-4005742" },
+        { "twitter": "@openstackindia" },
+        { "slideshare": "http://www.slideshare.net/openstackindia" },
+        { "coordinators": "Kavit Munshi;Atul Jha;Sajid Akhtar" },
+        { "coordinator-emails": "kavit@aptira.com; koolhead17@gmail.com; mail2akhtar@gmail.com" }
+      ]
+    },
+    {
+      "title": "Pune, India",
+      "location": {
+        "country": "IN",
+        "continent": "AS",
+        "location": "Pune",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Pune" }
+      ]
+    },
+    {
+      "title": "Indonesia",
+      "location": {
+        "country": "ID",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "website": "http://www.openstack-id.org" },
+        { "facebook": "https://www.facebook.com/openstack.id" },
+        { "coordinators": "Frans" },
+        { "coordinator-emails": "frans@meruvian.org" }
+      ]
+    },
+    {
+      "title": "Japan",
+      "location": {
+        "country": "JP",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Hasegawa-san, Yoshiyama-san" },
+         { "coordinator-emails": "hasegawa@bit-isle.co.jp;akirayoshiyama@gmail.com" },
+         { "facebook": "https://www.facebook.com/pages/OpenStack-Japan/164169673621965" },
+         { "website": "http://openstack.jp/" },
+         { "google-group": "https://groups.google.com/forum/#!forum/openstack-ja"}
+      ]
+    },
+    {
+      "title": "Malaysia",
+      "location": {
+        "country": "MY",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinator-emails": "fenris@ubuntu.com; mypapit@gmail.com" },
+         { "facebook": "https://www.facebook.com/groups/openstackmy" }
+      ]
+    },
+    {
+      "title": "Phillipines",
+      "location": {
+        "country": "PH",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Mary Ann Camo, Dean Marc Co, Mary Rose Oh " },
+         { "coordinator-emails": "dmc@dungeoninnovations.com, mac@dungeoninnovations.com,  mro@dungeoninnovations.com" },
+         { "ml": "https://groups.google.com/forum/?hl=en#!forum/openstack-philippines"}
+      ]
+    },
+    {
+      "title": "Singapore",
+      "location": {
+        "country": "SG",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinator-emails": "wickedpuppy@gmail.com;akirayoshiyama@gmail.com;hasegawa@bit-isle.co.jp" },
+         { "meetup": "http://www.meetup.com/OpenStack-Singapore/" },
+         { "linkedin": " http://www.linkedin.com/groups/Openstack-Singapore-5190447" },
+         { "google-plus": "http://groups.google.com/group/openstack-singapore-users-group" },
+         { "facebook": "https://www.facebook.com/groups/SGOpenStack/" },
+         { "website": " http://openstack-sg.org" }
+      ]
+    },
+    {
+      "title": "South Korea",
+      "location": {
+        "country": "KR",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Nalee Jang" },
+         { "coordinator-emails": "nalee999@gmail.com" },
+         { "google-plus": "https://plus.google.com/communities/104978679354261194990" },
+         { "facebook": "https://www.facebook.com/groups/openstack.kr/" },
+         { "website": "http://www.openstack.or.kr" }
+      ]
+    },
+    {
+      "title": "Taiwan",
+      "location": {
+        "country": "TW",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Yoyo Chiang;Mac Jack;Tom Fifield" },
+         { "coordinator-emails": "yoyochiang@itri.org.tw, macjacktw@hotmail.com, tom@openstack.org" },
+         { "facebook": " https://www.facebook.com/groups/180981535428325/"}
+      ]
+    },
+
+    {
+      "title": "Thailand",
+      "location": {
+        "country": "TH",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinator-emails": "kasiditchanchio@gmail.com; kasidit@cs.tu.ac.th" },
+         { "facebook": "https://www.facebook.com/pages/OpenStack-in-Thailand/496445673713356" },
+         { "website": "http://blog.sushicloud.cs.tu.ac.th/?cat=14" }
+      ]
+    },
+    {
+      "title": "Vietnam",
+      "location": {
+        "country": "VN",
+        "continent": "AS",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Hang Tran" },
+         { "coordinator-emails": "hang.tran@dtt.vn" },
+         { "facebook": "https://www.facebook.com/VietOpenStack" }
+      ]
+    },
+
+    {
+      "title": "Austria",
+      "location": {
+        "country": "AT",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-DACH/" }
+      ]
+    },
+    {
+      "title": "Belgium",
+      "location": {
+        "country": "BE",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://www.linkedin.com/groups?gid=4817141" },
+        { "coordinators": "Karel Striegel" },
+        { "coordinator-emails": "karel.striegel@gmail.com" }
+      ]
+    },
+    {
+      "title": "Bulgaria",
+      "location": {
+        "country": "BG",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://www.linkedin.com/groups?gid=5154754&trk" },
+         { "coordinators": "Alexandra Mechkova" },
+         { "coordinator-emails": " info@openstackbg.com" },
+         { "website": "http://openstack.bg" }
+      ]
+    },
+    {
+      "title": "Czech Republic",
+      "location": {
+        "country": "CZ",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://www.linkedin.com/groups/OpenStack-Czech-User-Group-Meetup-5118912" },
+        { "meetup": "http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/" },
+        { "coordinators": "Stanislav Polášek" }
+      ]
+    },
+    {
+      "title": "Finland",
+      "location": {
+        "country": "FI",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://tinyurl.com/openstackfinland" },
+        { "twitter": "@OpenstackFIN" },
+        { "coordinators": "Ilkka Tengvall" },
+        { "coordinator-emails": "Ilkka.Turunen@cybercom.com" }
+      ]
+    },
+    {
+      "title": "France",
+      "location": {
+        "country": "FR",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "website": "http://openstack.fr" },
+        { "linkedin": "http://www.linkedin.com/groups/OpenStack-France-3993018?home=&gid=3993018&trk=anet_ug_hm&goback=%2Eanp_3993018_1310075735312_1" },
+        { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-fr" },
+        { "irc": "#openstack-fr" },
+        { "meetup": "http://www.meetup.com/OpenStack-France" },
+        { "meetup": "http://www.meetup.com/OpenStack-Rhone-Alpes" },
+        { "coordinators": "Erwan Gallen;Pierre Freund" },
+        { "coordinator-emails": "erwan@erwan.com;pierre.freund@osones.com" }
+      ]
+    },
+    {
+      "title": "Germany",
+      "location": {
+        "country": "DE",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "https://www.xing.com/net/pri3642a8x/openstack-germany/" },
+        { "meetup": "http://www.meetup.com/OpenStack-DACH/" },
+        { "coordinators": "Christian Berendt" },
+        { "coordinator-emails": "berendt@b1-systems.de" },
+        { "twitter": "@openstack_de" }
+      ]
+    },
+    {
+      "title": "Greece",
+      "location": {
+        "country": "GR",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Athens-OpenStack-User-Group" },
+        { "google-plus": "https://plus.google.com/communities/113761625022392052075" },
+        { "coordinators": "Thanassis Parathyras" },
+        { "coordinator-emails": "aparathyras@stackmasters.eu" }
+      ]
+    },
+    {
+      "title": "Hungary",
+      "location": {
+        "country": "HU",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Hungary-Meetup-Group/" },
+        { "coordinators": "Marton Kiss" },
+        { "coordinator-emails": "marton.kiss@xemeti.com" },
+        { "google-plus": "https://plus.google.com/102509984104346370987/posts" },
+        { "facebook": "https://www.facebook.com/pages/Openstack-CEE-DAY-2013-Budapest/320807518049566" }
+      ]
+    },
+    {
+      "title": "Ireland",
+      "location": {
+        "country": "IE",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Ireland" },
+        { "twitter": "@OpenstackIRL" },
+        { "coordinators": "Tim Horgan" },
+        { "coordinator-emails": "tim.horgan@cit.ie" }
+      ]
+    },
+    {
+      "title": "Italy",
+      "location": {
+        "country": "IT",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-User-Group-Italia/" },
+        { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-it" },
+        { "coordinators": "David Guerri;Stefano Maffulli" },
+        { "coordinator-emails": "davide.guerri@gmail.com;stefano@openstack.org" }
+      ]
+    },
+    {
+      "title": "Netherlands",
+      "location": {
+        "country": "NL",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/Openstack-Amsterdam" },
+        { "meetup": "http://www.meetup.com/Openstack-Netherlands/" },
+        { "google-plus": "https://plus.google.com/u/1/communities/115207580745787867740" },
+        { "website": "http://openstack.nl/"}
+      ]
+    },
+    {
+      "title": "Nordics (Scandinavia)",
+      "location": {
+        "country": "NO",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-User-Group-Nordics/" },
+        { "linkedin": "http://www.linkedin.com/groups/OpenStack-Nordics-4764289" },
+        { "twitter": "@OSNordics" },
+        { "coordinators": "N Paladi" },
+        { "coordinator-emails": "n.paladi@gmail.com" }
+      ]
+    },
+    {
+      "title": "Poland",
+      "location": {
+        "country": "PL",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-User-Group-Poland/" },
+  { "linkedin": "http://www.linkedin.com/groups?home=&gid=4950277&trk=anet_ug_hm" },
+  { "website": "http://www.openstack.org.pl" },
+  { "google-plus": "www.youtube.com/user/OpenStackPoland" }
+      ]
+    },
+    {
+      "title": "Russia",
+      "location": {
+        "country": "RU",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+        { "linkedin": "http://www.linkedin.com/groups?gid=4109150" },
+  { "website": "http://www.oscloud.ru/" },
+  { "facebook": "https://www.facebook.com/groups/openstack.russia/" }
+      ]
+    },
+    {
+      "title": "Serbia",
+      "location": {
+        "country": "RS",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "website": "http://www.openstack.rs" }
+      ]
+    },
+    {
+      "title": "Slovenia",
+      "location": {
+        "country": "SI",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "forum": "https://groups.google.com/forum/?fromgroups#!forum/openstack-slovenija" },
+  { "linkedin": "http://www.linkedin.com/groups/OpenStack-Slovenija-4793209?trk=myg_ugrp_ovr" },
+  { "facebook": "https://www.facebook.com/OpenstackSlovenija" }
+      ]
+    },
+    {
+      "title": "Spain",
+      "location": {
+        "country": "ES",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "google-plus": "https://plus.google.com/u/0/communities/102652393437279778000" },
+  { "google-groups": "http://groups.google.com/group/spain-openstack-user-group" },
+  { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-es Archives" },
+  { "twitter": "@openstackspain" },
+  { "meetup": "http://www.meetup.com/OpenStack-Barcelona" }
+
+      ]
+    },
+    {
+      "title": "Sweden",
+      "location": {
+        "country": "SE",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "meetup": "http://www.meetup.com/OpenStack-User-Group-Nordics/" },
+  { "twitter": "@OpenStackSE" }
+      ]
+    },
+    {
+      "title": "Switzerland",
+      "location": {
+        "country": "CH",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "meetup": "http://www.meetup.com/openstack-ch/" },
+  { "twitter": "http://openstack.ch/" }
+      ]
+    },
+    {
+      "title": "UK",
+      "location": {
+        "country": "GB",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "meetup": "http://www.meetup.com/OpenStack-London" }
+      ]
+    },
+    {
+      "title": "Argentina",
+      "location": {
+        "country": "AR",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-groups": "http://groups.google.com/group/openstack-argentina" },
+         { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-es" }
+      ]
+    },
+    {
+      "title": "Brazil",
+      "location": {
+        "country": "BR",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-groups": "http://groups.google.com/group/openstack-br" },
+         { "facebook": "http://www.facebook.com/openstackbr" }
+      ]
+    },
+    {
+      "title": "Ecuador",
+      "location": {
+        "country": "EC",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-plus": "https://plus.google.com/communities/102070666375831873027?hl=es" },
+         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Ecuador-5012947/about" },
+         { "twitter": "@OpenStackEC" },
+         { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-es" }
+      ]
+    },
+    {
+      "title": "Peru",
+      "location": {
+        "country": "PE",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-plus": " https://plus.google.com/u/0/communities/104762267854890735702" },
+         { "coordinators": "Alfonso" },
+         { "coordinator-emails": " alfonsodg@gmail.com" }
+      ]
+    },
+    {
+      "title": "Puerto Rico",
+      "location": {
+        "country": "PR",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-groups": "https://groups.google.com/forum/?hl=en#!forum/openstack-puerto-rico" },
+         { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-es" }
+      ]
+    },
+    {
+      "title": "Venezuela",
+      "location": {
+        "country": "VE",
+        "continent": "SA",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "google-plus": "https://plus.google.com/communities/118105990522935078913" },
+         { "forum": "https://groups.google.com/d/forum/openstack-ve" },
+         { "twitter": "@openstackve" }
+      ]
+    },
+    {
+      "title": "Algeria",
+      "location": {
+        "country": "DZ",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/OpenStack-Algeria" }
+      ]
+    },
+    {
+      "title": "Cyprus",
+      "location": {
+        "country": "DZ",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/OpenStack-Cyprus-Community/" }
+      ]
+    },
+    {
+      "title": "Egypt",
+      "location": {
+        "country": "EG",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://groups.google.com/group/egypt-openstack-user-group" },
+         { "mailing-list": "egypt-openstack-user-group@googlegroups.com" }
+      ]
+    },
+    {
+      "title": "Iran",
+      "location": {
+        "country": "IR",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "coordinators": "Roozbeh Shafiee" },
+         { "coordinator-emails": "Roozbeh.Shafiee@Gmail.Com" },
+         { "twitter": "https://twitter.com/OpenStackIR" },
+         { "website": "http://openstack.ir" }
+      ]
+    },
+
+    {
+      "title": "Israel",
+      "location": {
+        "country": "IL",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "website": "http://www.openstack-israel.org" },
+         { "meetup": "http://www.meetup.com/igtcloud" },
+         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Community-Israel-4287586" },
+         { "google-plus": "https://plus.google.com/117594259110700109152/posts" },
+         { "twitter": "@OpenStackIL" },
+         { "coordinators": "Nati Shalom" },
+         { "coordinator-emails": "natis@gigaspaces.com" }
+      ]
+    },
+    {
+      "title": "Morocco",
+      "location": {
+        "country": "MA",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/Morocco-OpenStack-Users-Group" },
+         { "coordinators": "Yousef Largo" },
+         { "coordinator-emails": "largou@forumin.co.ma" }
+      ]
+    },
+    {
+      "title": "Turkey",
+      "location": {
+        "country": "TR",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "twitter": "@OpenStackTurkey" },
+         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Turkey-4417346/about" }
+      ]
+    },
+    {
+      "title": "UAE",
+      "location": {
+        "country": "AE",
+        "continent": "ME",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/U-A-E-OpenStack-User-Group/" },
+         { "facebook": "https://www.facebook.com/groups/280298292070983" },
+         { "linkedin": "http://www.linkedin.com/groups/OpenStack-UAE-4653922?gid=4653922" },
+         { "twitter": "@OpenStackUAE" },
+         { "coordinator-emails": "dce3062@gmail.com" }
+      ]
+    }
+  ]
+}
