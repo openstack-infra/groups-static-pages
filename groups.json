@@ -2,6 +2,7 @@
   "groups": [
     {
       "title": "Atlanta",
+      "id": "25a7cf51-8398-4ba9-9585-d7257b6eef4f",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -18,6 +19,7 @@
     },
     {
       "title": "Austin",
+      "id": "261a3816-1ae9-4785-8585-d4f32338d7f6",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Boston",
+      "id": "f278ffe4-fcf0-41b4-a0f6-854d7add511b",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -49,6 +52,7 @@
     },
     {
       "title": "Canada",
+      "id": "96c2d346-9c0f-4389-a51b-a7ebdcd330fd",
       "location": {
         "country": "CA",
         "continent": "NA",
@@ -71,6 +75,7 @@
     },
     {
       "title": "Chicago",
+      "id": "5cb8c491-1157-49d3-8235-ad6fe779c815",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -86,6 +91,7 @@
     },
     {
       "title": "Cincinnati",
+      "id": "4ff63bb0-ac60-48b0-9cda-cea307bbd243",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -100,6 +106,7 @@
     },
     {
       "title": "Colorado (Northern)",
+      "id": "fa7e09fe-88a7-467a-b33f-274359d423a2",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -114,6 +121,7 @@
     },
     {
       "title": "Colorado (Denver Metro/South)",
+      "id": "b8721a4d-dbc4-42ee-91b8-150089ced329",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -130,6 +138,7 @@
     },
     {
       "title": "Columbus",
+      "id": "3fa5d50c-066b-4bb6-aa57-57478ac4736f",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -145,6 +154,7 @@
 
     {
       "title": "Connecticut",
+      "id": "80d4d1ee-5a49-48d0-b8eb-fe8114ea1ca5",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -161,6 +171,7 @@
     },
     {
       "title": "Dallas Fort Worth",
+      "id": "2d5cdee3-e7af-4c4d-ae59-81d9fb63da92",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -176,6 +187,7 @@
 
     {
       "title": "Washington, DC Metro Area",
+      "id": "74b463f6-91f7-4090-a188-5da15a437796",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -193,6 +205,7 @@
     },
     {
       "title": "Florida",
+      "id": "936b53c8-12f8-4505-9739-a882ecee9af1",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -209,6 +222,7 @@
     },
     {
       "title": "Indiana",
+      "id": "0cb20a0e-fc33-449c-8bfd-ab783c03d42a",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -224,6 +238,7 @@
     },
     {
       "title": "Kentucky",
+      "id": "5bfdffc4-200c-4af3-bacc-1df9da4f5d11",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -238,6 +253,7 @@
     },
     {
       "title": "Los Angeles",
+      "id": "b75de0ae-1b6c-4581-9816-2967c50dd0f6",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -256,6 +272,7 @@
     },
     {
       "title": "Michigan",
+      "id": "197f3ab7-0e45-4785-8db7-87902e235cc9",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -269,6 +286,7 @@
     },
     {
       "title": "Minnesota",
+      "id": "61475609-d1e4-4ece-bde7-a22fe568f9a0",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -286,6 +304,7 @@
 
     {
       "title": "New York City",
+      "id": "684ea6ce-1fbe-47da-a728-bae5543c12db",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -304,6 +323,7 @@
     },
     {
       "title": "North Carolina",
+      "id": "352460ec-a94a-49b9-9ebd-500735476671",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -316,6 +336,7 @@
     },
     {
       "title": "Philadelphia",
+      "id": "032e6a9b-8d08-40a3-9696-8ec4ed5eb241",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -333,6 +354,7 @@
     },
     {
       "title": "San Antonio, TX",
+      "id": "63d88112-955d-470d-b860-f8e1de2135a1",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -349,6 +371,7 @@
     },
     {
       "title": "San Francisco Bay Area",
+      "id": "26ff5267-7f63-428f-9778-2292b06c377e",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -364,6 +387,7 @@
     },
     {
       "title": "Seattle",
+      "id": "00ea1141-45bd-4bc6-b4c6-b5832e56c617",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -380,6 +404,7 @@
     },
     {
       "title": "Utah",
+      "id": "8c5320fb-4b36-40c9-b44e-e581dd7b72bc",
       "location": {
         "country": "US",
         "continent": "NA",
@@ -394,6 +419,7 @@
     },
     {
       "title": "Africa",
+      "id": "a38dc7c3-adb7-4eea-bd17-0fec646fba01",
       "location": {
         "country": "",
         "continent": "AF",
@@ -409,6 +435,7 @@
     },
     {
       "title": "Kenya",
+      "id": "45623b98-28cf-4908-b936-da8509beba9e",
       "location": {
         "country": "KE",
         "continent": "AF",
@@ -422,6 +449,7 @@
     },
     {
       "title": "Nigeria",
+      "id": "c5e8e9e2-d772-45e2-b69f-966da53bffd5",
       "location": {
         "country": "NG",
         "continent": "AF",
@@ -433,6 +461,7 @@
     },
     {
       "title": "Australia",
+      "id": "a1341112-f9ea-4727-9171-a410e132eafe",
       "location": {
         "country": "AU",
         "continent": "OC",
@@ -449,6 +478,7 @@
     },
     {
       "title": "New Zealand",
+      "id": "d3e72761-f39f-41d3-8ac2-df0f717d905e",
       "location": {
         "country": "NZ",
         "continent": "OC",
@@ -461,6 +491,7 @@
     },
     {
       "title": "China",
+      "id": "6c3e16da-1aa7-4933-80e6-650d6d281470",
       "location": {
         "country": "CN",
         "continent": "AS",
@@ -476,6 +507,7 @@
     },
     {
       "title": "Hong Kong",
+      "id": "c329273e-ea91-4fa0-ae74-3438875f8675",
       "location": {
         "country": "HK",
         "continent": "AS",
@@ -494,6 +526,7 @@
     },
     {
       "title": "India",
+      "id": "f7c6b9b6-58a6-478f-a5c2-a51c2f598b35",
       "location": {
         "country": "IN",
         "continent": "AS",
@@ -514,6 +547,7 @@
     },
     {
       "title": "Pune, India",
+      "id": "b12d27a2-69c5-4fb6-b736-accac4d43040",
       "location": {
         "country": "IN",
         "continent": "AS",
@@ -527,6 +561,7 @@
     },
     {
       "title": "Indonesia",
+      "id": "2246db9e-6c62-4980-bb2c-f48fa0f7281d",
       "location": {
         "country": "ID",
         "continent": "AS",
@@ -542,6 +577,7 @@
     },
     {
       "title": "Japan",
+      "id": "7cfd0225-aa2f-4a65-8fe4-5794030a55c0",
       "location": {
         "country": "JP",
         "continent": "AS",
@@ -558,6 +594,7 @@
     },
     {
       "title": "Malaysia",
+      "id": "357f1ba8-8522-410e-8ca8-400c79b86bba",
       "location": {
         "country": "MY",
         "continent": "AS",
@@ -571,6 +608,7 @@
     },
     {
       "title": "Phillipines",
+      "id": "c8521cdd-adbd-44ec-8dfc-709f159b9c0c",
       "location": {
         "country": "PH",
         "continent": "AS",
@@ -585,6 +623,7 @@
     },
     {
       "title": "Singapore",
+      "id": "94bcc942-c638-4a98-94c1-94a00e53c5c7",
       "location": {
         "country": "SG",
         "continent": "AS",
@@ -602,6 +641,7 @@
     },
     {
       "title": "South Korea",
+      "id": "f0c79feb-4fb1-4748-b92c-012d6d545afb",
       "location": {
         "country": "KR",
         "continent": "AS",
@@ -618,6 +658,7 @@
     },
     {
       "title": "Taiwan",
+      "id": "3db64c88-16af-4aeb-93cc-096d3ee43ba7",
       "location": {
         "country": "TW",
         "continent": "AS",
@@ -633,6 +674,7 @@
 
     {
       "title": "Thailand",
+      "id": "68e853a5-bca9-404c-8de2-364ed6051137",
       "location": {
         "country": "TH",
         "continent": "AS",
@@ -647,6 +689,7 @@
     },
     {
       "title": "Vietnam",
+      "id": "adc0415b-16d2-4a98-95ae-302950bec9f2",
       "location": {
         "country": "VN",
         "continent": "AS",
@@ -662,6 +705,7 @@
 
     {
       "title": "Austria",
+      "id": "8c499bce-76ff-4286-89a1-cc412b3fd248",
       "location": {
         "country": "AT",
         "continent": "EU",
@@ -674,6 +718,7 @@
     },
     {
       "title": "Belgium",
+      "id": "ed8ae18f-4b0b-4bd6-b479-f35af08e6398",
       "location": {
         "country": "BE",
         "continent": "EU",
@@ -688,6 +733,7 @@
     },
     {
       "title": "Bulgaria",
+      "id": "91a3c35e-ee3c-42fa-8388-be96d086bd8b",
       "location": {
         "country": "BG",
         "continent": "EU",
@@ -703,6 +749,7 @@
     },
     {
       "title": "Czech Republic",
+      "id": "1a426279-1798-45f2-ae04-e6a235d1a97e",
       "location": {
         "country": "CZ",
         "continent": "EU",
@@ -717,6 +764,7 @@
     },
     {
       "title": "Finland",
+      "id": "ce993541-ae9b-418d-bcac-d0e4a8c77307",
       "location": {
         "country": "FI",
         "continent": "EU",
@@ -732,6 +780,7 @@
     },
     {
       "title": "France",
+      "id": "e614c77e-5cff-4de3-abb7-a80134e43fff",
       "location": {
         "country": "FR",
         "continent": "EU",
@@ -751,6 +800,7 @@
     },
     {
       "title": "Germany",
+      "id": "75a5c9a5-fda7-4c2d-a62e-f408c54e6f18",
       "location": {
         "country": "DE",
         "continent": "EU",
@@ -767,6 +817,7 @@
     },
     {
       "title": "Greece",
+      "id": "883e5499-633e-4fd7-958b-8c7895a372e8",
       "location": {
         "country": "GR",
         "continent": "EU",
@@ -782,6 +833,7 @@
     },
     {
       "title": "Hungary",
+      "id": "06dfa64e-018b-4c62-aaa8-ec9f549f55a0",
       "location": {
         "country": "HU",
         "continent": "EU",
@@ -798,6 +850,7 @@
     },
     {
       "title": "Ireland",
+      "id": "5a03a77d-3663-4b43-a7e0-96259c9b6041",
       "location": {
         "country": "IE",
         "continent": "EU",
@@ -813,6 +866,7 @@
     },
     {
       "title": "Italy",
+      "id": "915744b9-29e3-435d-9749-02429b8d00b3",
       "location": {
         "country": "IT",
         "continent": "EU",
@@ -828,6 +882,7 @@
     },
     {
       "title": "Netherlands",
+      "id": "7afdd0a4-65dd-4aba-b570-6603110359c4",
       "location": {
         "country": "NL",
         "continent": "EU",
@@ -843,6 +898,7 @@
     },
     {
       "title": "Nordics (Scandinavia)",
+      "id": "4a1f6a5a-4a6c-4fea-97a4-4c92291fe457",
       "location": {
         "country": "NO",
         "continent": "EU",
@@ -859,6 +915,7 @@
     },
     {
       "title": "Poland",
+      "id": "86b83f1f-ca97-4019-97cb-4c6f64736e45",
       "location": {
         "country": "PL",
         "continent": "EU",
@@ -874,6 +931,7 @@
     },
     {
       "title": "Russia",
+      "id": "4a7b80e3-67e5-4864-a261-b6fb742fc500",
       "location": {
         "country": "RU",
         "continent": "EU",
@@ -888,6 +946,7 @@
     },
     {
       "title": "Serbia",
+      "id": "28acde82-e7f6-45ef-bf0c-92092a5cb46a",
       "location": {
         "country": "RS",
         "continent": "EU",
@@ -900,6 +959,7 @@
     },
     {
       "title": "Slovenia",
+      "id": "ff88c563-b2bb-40ea-a73b-7118a7989e8a",
       "location": {
         "country": "SI",
         "continent": "EU",
@@ -914,6 +974,7 @@
     },
     {
       "title": "Spain",
+      "id": "ffd424f1-01e7-4992-bf54-6aeb459ab2a1",
       "location": {
         "country": "ES",
         "continent": "EU",
@@ -931,6 +992,7 @@
     },
     {
       "title": "Sweden",
+      "id": "e3a80112-1ca2-4a93-b3aa-a26e5626089b",
       "location": {
         "country": "SE",
         "continent": "EU",
@@ -944,6 +1006,7 @@
     },
     {
       "title": "Switzerland",
+      "id": "1d4addb7-6cce-4195-9cde-e0c426ea9476",
       "location": {
         "country": "CH",
         "continent": "EU",
@@ -957,6 +1020,7 @@
     },
     {
       "title": "UK",
+      "id": "99d26a13-99b0-436c-ae36-5c35b5ffa4a5",
       "location": {
         "country": "GB",
         "continent": "EU",
@@ -969,6 +1033,7 @@
     },
     {
       "title": "Argentina",
+      "id": "f0a06f76-da4e-4ef5-a786-70fa900435d0",
       "location": {
         "country": "AR",
         "continent": "SA",
@@ -982,6 +1047,7 @@
     },
     {
       "title": "Brazil",
+      "id": "86c51505-242a-429b-87dd-0eee06457dcc",
       "location": {
         "country": "BR",
         "continent": "SA",
@@ -995,6 +1061,7 @@
     },
     {
       "title": "Ecuador",
+      "id": "9c8afa1f-3218-4e53-a9cf-0989dc86deb4",
       "location": {
         "country": "EC",
         "continent": "SA",
@@ -1010,6 +1077,7 @@
     },
     {
       "title": "Peru",
+      "id": "c17e7b70-9068-484a-8498-d9939e55a77e",
       "location": {
         "country": "PE",
         "continent": "SA",
@@ -1024,6 +1092,7 @@
     },
     {
       "title": "Puerto Rico",
+      "id": "31a0b081-2cc9-4da2-922f-6e59788212b6",
       "location": {
         "country": "PR",
         "continent": "SA",
@@ -1037,6 +1106,7 @@
     },
     {
       "title": "Venezuela",
+      "id": "219af47f-37f4-4ca1-b7a3-7c394d563e42",
       "location": {
         "country": "VE",
         "continent": "SA",
@@ -1051,6 +1121,7 @@
     },
     {
       "title": "Algeria",
+      "id": "6e615eef-05f9-405a-a521-b4c110798b95",
       "location": {
         "country": "DZ",
         "continent": "ME",
@@ -1063,6 +1134,7 @@
     },
     {
       "title": "Cyprus",
+      "id": "a43be624-2f93-4b64-8c8c-5e167d793522",
       "location": {
         "country": "DZ",
         "continent": "ME",
@@ -1075,6 +1147,7 @@
     },
     {
       "title": "Egypt",
+      "id": "a5be569c-36c5-4810-bde5-430d26200ef7",
       "location": {
         "country": "EG",
         "continent": "ME",
@@ -1088,6 +1161,7 @@
     },
     {
       "title": "Iran",
+      "id": "c42ef663-fcb1-4518-9a18-ff4949100e21",
       "location": {
         "country": "IR",
         "continent": "ME",
@@ -1104,6 +1178,7 @@
 
     {
       "title": "Israel",
+      "id": "6f4a51f4-4e19-41e8-b377-dfb8feb1a318",
       "location": {
         "country": "IL",
         "continent": "ME",
@@ -1122,6 +1197,7 @@
     },
     {
       "title": "Morocco",
+      "id": "d139b42b-1a93-4af4-bb69-169cb1a38d23",
       "location": {
         "country": "MA",
         "continent": "ME",
@@ -1136,6 +1212,7 @@
     },
     {
       "title": "Turkey",
+      "id": "f60a0a72-9606-4ac8-bc74-0be247fc2dce",
       "location": {
         "country": "TR",
         "continent": "ME",
@@ -1149,6 +1226,7 @@
     },
     {
       "title": "UAE",
+      "id": "26677fc2-ab9e-4340-9751-3357cce2d1da",
       "location": {
         "country": "AE",
         "continent": "ME",
