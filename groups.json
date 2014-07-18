@@ -930,6 +930,21 @@
       ]
     },
     {
+      "title": "Romania",
+      "location": {
+        "country": "RO",
+        "continent": "EU",
+        "lat": "0",
+        "lng": "0"
+      },
+      "attributes": [
+  { "meetup": "http://www.meetup.com/Openstack-Bucharest/" },
+  { "coordinator": "Adrian Moti" },
+  { "coordinator-email": "adrian_moti@yahoo.com" },
+      ]
+    },
+
+    {
       "title": "Russia",
       "id": "4a7b80e3-67e5-4864-a261-b6fb742fc500",
       "location": {
