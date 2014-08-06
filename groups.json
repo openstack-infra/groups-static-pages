@@ -520,6 +520,7 @@
         { "facebook": "https://www.facebook.com/groups/hkosug/" },
         { "forum": "https://groups.google.com/d/forum/hong-kong-cloud-technology-sig" },
         { "google-plus": "https://plus.google.com/u/0/communities/112611801924078008731" },
+        { "meetup": "http://www.meetup.com/Hong-Kong-OpenStack-User-Group" },
         { "coordinators": "Raymond Chan;Alison Tam" },
         { "coordinator-emails": "raymondchan@cyberport.hk;alisontam@cyberport.hk" }
       ]
