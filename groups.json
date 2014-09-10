@@ -46,7 +46,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Openstack-Boston" },
-        { "coordinator-emails": "Kamesh_Pemmaraju@Dell.com" },
+        { "coordinator-emails": "Kamesh_Pemmaraju@Dell.com" }
       ]
     },
     {
