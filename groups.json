@@ -7,8 +7,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Atlanta",
-        "lat": "0",
-        "lng": "0"
+        "lat": "33.748995400000",
+        "lng": "-84.387982400000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/openstack-atlanta" },
@@ -24,8 +24,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Austin, TX",
-        "lat": "0",
-        "lng": "0"
+        "lat": "30.267153000000",
+        "lng": "-97.743060800000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/openstack-austin" },
@@ -41,8 +41,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Boston",
-        "lat": "0",
-        "lng": "0"
+        "lat": "42.358430800000",
+        "lng": "-71.059773200000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Openstack-Boston" },
@@ -55,8 +55,8 @@
       "location": {
         "country": "CA",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "56.130366000000",
+        "lng": "-106.346771000000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/Canadian-OpenStack-Users-Group" },
@@ -79,8 +79,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Chicago",
-        "lat": "0",
-        "lng": "0"
+        "lat": "41.878113600000",
+        "lng": "-87.629798200000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/meetup-group-NjZdcegA" },
@@ -94,8 +94,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "coordinators": "Bev Corwin" },
@@ -109,8 +109,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Colorado" },
@@ -125,8 +125,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Denver",
-        "lat": "0",
-        "lng": "0"
+        "lat": "39.737567000000",
+        "lng": "-104.984717900000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Denver" },
@@ -141,8 +141,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
          { "coordinators": "Donovan Johnson" },
@@ -157,8 +157,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Openstack-Connecticut" },
@@ -174,8 +174,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-DFW" },
@@ -191,8 +191,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Washington DC",
-        "lat": "0",
-        "lng": "0"
+        "lat": "38.907192300000",
+        "lng": "-77.036870700000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStackDC" },
@@ -208,8 +208,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=4762393" },
@@ -225,8 +225,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://tinyurl.com/7k8b7mr" },
@@ -241,8 +241,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Kentucky" },
@@ -257,8 +257,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Los Angeles",
-        "lat": "0",
-        "lng": "0"
+        "lat": "34.052234200000",
+        "lng": "-118.243684900000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-LA" },
@@ -275,8 +275,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "coordinators": "Eric Detterman" },
@@ -289,8 +289,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
          { "coordinators": "Kyle Mestery" },
@@ -308,8 +308,8 @@
         "country": "US",
         "continent": "NA",
         "location": "New York City",
-        "lat": "0",
-        "lng": "0"
+        "lat": "40.712783700000",
+        "lng": "-74.005941300000"
       },
       "attributes": [
          { "website": "http://www.meetup.com/OpenStack-New-York-Meetup/" },
@@ -326,8 +326,8 @@
       "location": {
         "country": "US",
         "continent": "NA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.090240000000",
+        "lng": "-95.712891000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Triangle-OpenStack-Meetup/" }
@@ -340,8 +340,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Philadelphia",
-        "lat": "0",
-        "lng": "0"
+        "lat": "39.952335000000",
+        "lng": "-75.163789000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Philly-OpenStack-Meetup-Group" },
@@ -358,8 +358,8 @@
         "country": "US",
         "continent": "NA",
         "location": "San Antonio, TX",
-        "lat": "0",
-        "lng": "0"
+        "lat": "29.424121900000",
+        "lng": "-98.493628200000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/SA-Open-Stackers/" },
@@ -375,8 +375,8 @@
         "country": "US",
         "continent": "NA",
         "location": "San Francisco, CA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "37.774929500000",
+        "lng": "-122.419415500000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/openstack" },
@@ -391,8 +391,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Seattle",
-        "lat": "0",
-        "lng": "0"
+        "lat": "47.606209500000",
+        "lng": "-122.332070800000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Seattle" },
@@ -408,8 +408,8 @@
         "country": "US",
         "continent": "NA",
         "location": "Utah",
-        "lat": "0",
-        "lng": "0"
+        "lat": "39.320980100000",
+        "lng": "-111.093731100000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/utah-openstack" },
@@ -439,8 +439,8 @@
         "country": "KE",
         "continent": "AF",
         "location": "Nairobi",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-1.292065900000",
+        "lng": "36.821946200000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Nairobi" }
@@ -452,8 +452,8 @@
       "location": {
         "country": "NG",
         "continent": "AF",
-        "lat": "0",
-        "lng": "0"
+        "lat": "9.081999000000",
+        "lng": "8.675277000000"
       },
       "attributes": [
       ]
@@ -464,8 +464,8 @@
       "location": {
         "country": "AU",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-25.274398000000",
+        "lng": "133.775136000000"
       },
       "attributes": [
         { "meetup": "http://aosug.openstack.org.au" },
@@ -481,8 +481,8 @@
       "location": {
         "country": "NZ",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-40.900557000000",
+        "lng": "174.885971000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/New-Zealand-OpenStack-User-Group" }
@@ -494,8 +494,8 @@
       "location": {
         "country": "CN",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "35.861660000000",
+        "lng": "104.195397000000"
       },
       "attributes": [
         { "google-groups": "http://groups.google.com/group/china-openstack-user-group" },
@@ -511,8 +511,8 @@
         "country": "HK",
         "continent": "AS",
         "location": "Hong Kong",
-        "lat": "0",
-        "lng": "0"
+        "lat": "22.396428000000",
+        "lng": "114.109497000000"
       },
       "attributes": [
         { "website": "http://osug.cyberport.hk/" },
@@ -530,8 +530,8 @@
       "location": {
         "country": "IN",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "20.593684000000",
+        "lng": "78.962880000000"
       },
       "attributes": [
         { "website": "http://openstackindia.wordpress.com/" },
@@ -552,8 +552,8 @@
         "country": "IN",
         "continent": "AS",
         "location": "Pune",
-        "lat": "0",
-        "lng": "0"
+        "lat": "18.520430300000",
+        "lng": "73.856743700000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Pune" }
@@ -565,8 +565,8 @@
       "location": {
         "country": "ID",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-0.789275000000",
+        "lng": "113.921327000000"
       },
       "attributes": [
         { "website": "http://www.openstack-id.org" },
@@ -581,8 +581,8 @@
       "location": {
         "country": "JP",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "36.204824000000",
+        "lng": "138.252924000000"
       },
       "attributes": [
          { "coordinators": "Hasegawa-san, Yoshiyama-san" },
@@ -598,8 +598,8 @@
       "location": {
         "country": "MY",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "4.210484000000",
+        "lng": "101.975766000000"
       },
       "attributes": [
          { "coordinator-emails": "fenris@ubuntu.com; mypapit@gmail.com" },
@@ -612,8 +612,8 @@
       "location": {
         "country": "PH",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "12.879721000000",
+        "lng": "121.774017000000"
       },
       "attributes": [
          { "coordinators": "Mary Ann Camo, Dean Marc Co, Mary Rose Oh " },
@@ -627,8 +627,8 @@
       "location": {
         "country": "SG",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "1.352083000000",
+        "lng": "103.819836000000"
       },
       "attributes": [
          { "coordinator-emails": "wickedpuppy@gmail.com;akirayoshiyama@gmail.com;hasegawa@bit-isle.co.jp" },
@@ -645,8 +645,8 @@
       "location": {
         "country": "KR",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "35.907757000000",
+        "lng": "127.766922000000"
       },
       "attributes": [
          { "coordinators": "Nalee Jang" },
@@ -662,8 +662,8 @@
       "location": {
         "country": "TW",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "23.697810000000",
+        "lng": "120.960515000000"
       },
       "attributes": [
          { "coordinators": "Yoyo Chiang;Mac Jack;Tom Fifield" },
@@ -678,8 +678,8 @@
       "location": {
         "country": "TH",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "15.870032000000",
+        "lng": "100.992541000000"
       },
       "attributes": [
          { "coordinator-emails": "kasiditchanchio@gmail.com; kasidit@cs.tu.ac.th" },
@@ -693,8 +693,8 @@
       "location": {
         "country": "VN",
         "continent": "AS",
-        "lat": "0",
-        "lng": "0"
+        "lat": "14.058324000000",
+        "lng": "108.277199000000"
       },
       "attributes": [
          { "coordinators": "Hang Tran" },
@@ -709,8 +709,8 @@
       "location": {
         "country": "AT",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "47.516231000000",
+        "lng": "14.550072000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-DACH/" }
@@ -722,8 +722,8 @@
       "location": {
         "country": "BE",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "50.503887000000",
+        "lng": "4.469936000000"
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=4817141" },
@@ -737,8 +737,8 @@
       "location": {
         "country": "BG",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "42.733883000000",
+        "lng": "25.485830000000"
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=5154754&trk" },
@@ -753,8 +753,8 @@
       "location": {
         "country": "CZ",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "49.817492000000",
+        "lng": "15.472962000000"
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Czech-User-Group-Meetup-5118912" },
@@ -768,8 +768,8 @@
       "location": {
         "country": "FI",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "61.924110000000",
+        "lng": "25.748151000000"
       },
       "attributes": [
         { "linkedin": "http://tinyurl.com/openstackfinland" },
@@ -784,8 +784,8 @@
       "location": {
         "country": "FR",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "46.227638000000",
+        "lng": "2.213749000000"
       },
       "attributes": [
         { "website": "http://openstack.fr" },
@@ -804,8 +804,8 @@
       "location": {
         "country": "DE",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "51.165691000000",
+        "lng": "10.451526000000"
       },
       "attributes": [
         { "meetup": "https://www.xing.com/net/pri3642a8x/openstack-germany/" },
@@ -821,8 +821,8 @@
       "location": {
         "country": "GR",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "39.074208000000",
+        "lng": "21.824312000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Athens-OpenStack-User-Group" },
@@ -837,8 +837,8 @@
       "location": {
         "country": "HU",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "47.162494000000",
+        "lng": "19.503304000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Hungary-Meetup-Group/" },
@@ -854,8 +854,8 @@
       "location": {
         "country": "IE",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "53.412910000000",
+        "lng": "-8.243890000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Ireland" },
@@ -870,8 +870,8 @@
       "location": {
         "country": "IT",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "41.871940000000",
+        "lng": "12.567380000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-User-Group-Italia/" },
@@ -886,8 +886,8 @@
       "location": {
         "country": "NL",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "52.132633000000",
+        "lng": "5.291266000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Openstack-Amsterdam" },
@@ -902,8 +902,8 @@
       "location": {
         "country": "NO",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "60.472024000000",
+        "lng": "8.468946000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-User-Group-Nordics/" },
@@ -919,8 +919,8 @@
       "location": {
         "country": "PL",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "51.919438000000",
+        "lng": "19.145136000000"
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-User-Group-Poland/" },
@@ -934,8 +934,8 @@
       "location": {
         "country": "RO",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "45.943161000000",
+        "lng": "24.966760000000"
       },
       "attributes": [
   { "meetup": "http://www.meetup.com/Openstack-Bucharest/" },
@@ -950,8 +950,8 @@
       "location": {
         "country": "RU",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "61.524010000000",
+        "lng": "105.318756000000"
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=4109150" },
@@ -965,8 +965,8 @@
       "location": {
         "country": "RS",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "44.016521000000",
+        "lng": "21.005859000000"
       },
       "attributes": [
   { "website": "http://www.openstack.rs" }
@@ -978,8 +978,8 @@
       "location": {
         "country": "SI",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "46.151241000000",
+        "lng": "14.995463000000"
       },
       "attributes": [
   { "forum": "https://groups.google.com/forum/?fromgroups#!forum/openstack-slovenija" },
@@ -993,8 +993,8 @@
       "location": {
         "country": "ES",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "40.463667000000",
+        "lng": "-3.749220000000"
       },
       "attributes": [
   { "google-plus": "https://plus.google.com/u/0/communities/102652393437279778000" },
@@ -1011,8 +1011,8 @@
       "location": {
         "country": "SE",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "60.128161000000",
+        "lng": "18.643501000000"
       },
       "attributes": [
   { "meetup": "http://www.meetup.com/OpenStack-User-Group-Nordics/" },
@@ -1025,8 +1025,8 @@
       "location": {
         "country": "CH",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "46.818188000000",
+        "lng": "8.227512000000"
       },
       "attributes": [
   { "meetup": "http://www.meetup.com/openstack-ch/" },
@@ -1039,8 +1039,8 @@
       "location": {
         "country": "GB",
         "continent": "EU",
-        "lat": "0",
-        "lng": "0"
+        "lat": "55.378051000000",
+        "lng": "-3.435973000000"
       },
       "attributes": [
   { "meetup": "http://www.meetup.com/OpenStack-London" }
@@ -1052,8 +1052,8 @@
       "location": {
         "country": "AR",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-38.416097000000",
+        "lng": "-63.616672000000"
       },
       "attributes": [
          { "google-groups": "http://groups.google.com/group/openstack-argentina" },
@@ -1066,8 +1066,8 @@
       "location": {
         "country": "BR",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-14.235004000000",
+        "lng": "-51.925280000000"
       },
       "attributes": [
          { "google-groups": "http://groups.google.com/group/openstack-br" },
@@ -1080,8 +1080,8 @@
       "location": {
         "country": "EC",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-1.831239000000",
+        "lng": "-78.183406000000"
       },
       "attributes": [
          { "google-plus": "https://plus.google.com/communities/102070666375831873027?hl=es" },
@@ -1096,8 +1096,8 @@
       "location": {
         "country": "PE",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "-9.189967000000",
+        "lng": "-75.015152000000"
       },
       "attributes": [
          { "google-plus": " https://plus.google.com/u/0/communities/104762267854890735702" },
@@ -1111,8 +1111,8 @@
       "location": {
         "country": "PR",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "18.220833000000",
+        "lng": "-66.590149000000"
       },
       "attributes": [
          { "google-groups": "https://groups.google.com/forum/?hl=en#!forum/openstack-puerto-rico" },
@@ -1125,8 +1125,8 @@
       "location": {
         "country": "VE",
         "continent": "SA",
-        "lat": "0",
-        "lng": "0"
+        "lat": "6.423750000000",
+        "lng": "-66.589730000000"
       },
       "attributes": [
          { "google-plus": "https://plus.google.com/communities/118105990522935078913" },
@@ -1140,8 +1140,8 @@
       "location": {
         "country": "DZ",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "28.033886000000",
+        "lng": "1.659626000000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/OpenStack-Algeria" }
@@ -1153,8 +1153,8 @@
       "location": {
         "country": "DZ",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "35.166667",
+        "lng": "33.366667"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/OpenStack-Cyprus-Community/" }
@@ -1166,8 +1166,8 @@
       "location": {
         "country": "EG",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "26.820553000000",
+        "lng": "30.802498000000"
       },
       "attributes": [
          { "meetup": "http://groups.google.com/group/egypt-openstack-user-group" },
@@ -1180,8 +1180,8 @@
       "location": {
         "country": "IR",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "32.427908000000",
+        "lng": "53.688046000000"
       },
       "attributes": [
          { "coordinators": "Roozbeh Shafiee" },
@@ -1197,8 +1197,8 @@
       "location": {
         "country": "IL",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "31.046051000000",
+        "lng": "34.851612000000"
       },
       "attributes": [
          { "website": "http://www.openstack-israel.org" },
@@ -1216,8 +1216,8 @@
       "location": {
         "country": "MA",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "31.791702000000",
+        "lng": "-7.092620000000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/Morocco-OpenStack-Users-Group" },
@@ -1231,8 +1231,8 @@
       "location": {
         "country": "TR",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "38.963745000000",
+        "lng": "35.243322000000"
       },
       "attributes": [
          { "twitter": "@OpenStackTurkey" },
@@ -1245,8 +1245,8 @@
       "location": {
         "country": "AE",
         "continent": "ME",
-        "lat": "0",
-        "lng": "0"
+        "lat": "23.424076000000",
+        "lng": "53.847818000000"
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/U-A-E-OpenStack-User-Group/" },
