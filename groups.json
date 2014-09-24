@@ -1027,8 +1027,10 @@
         "lng": "8.227512000000"
       },
       "attributes": [
-  { "meetup": "http://www.meetup.com/openstack-ch/" },
-  { "twitter": "http://openstack.ch/" }
+        { "meetup": "http://www.meetup.com/openstack-ch/" },
+        { "twitter": "http://openstack.ch/" },
+        { "coordinators": "Andy Edmonds;Antonio Cimmino" },
+        { "coordinator-emails": "edmo@zhaw.ch;cimm@zhaw.ch" }
       ]
     },
     {
