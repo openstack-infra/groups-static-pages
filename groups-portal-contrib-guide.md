@@ -1,3 +1,9 @@
+---
+title: OpenStack Groups Portal Contribution Guide
+path: contribute
+---
+
+
 OpenStack Groups Portal Contribution Guide
 =============================================
 
