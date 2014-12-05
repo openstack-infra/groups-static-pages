@@ -193,7 +193,7 @@ https://www.drupal.org/project/drupal
 https://www.drupal.org/project/commons
 
 [3] OpenStack How To Contribute
-https://wiki.openstack.org/wiki/How_To_Contribute
+http://docs.openstack.org/infra/manual/developers.html
 
 [4] Drush alias examples
 http://drush.ws/examples/example.aliases.drushrc.php
@@ -202,4 +202,4 @@ http://drush.ws/examples/example.aliases.drushrc.php
 https://www.drupal.org/project/features
 
 [6] Gerrit workflow
-https://wiki.openstack.org/wiki/Gerrit_Workflow
+http://docs.openstack.org/infra/manual/developers.html#development-workflow
