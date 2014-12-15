@@ -114,8 +114,8 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Colorado" },
-        { "coordinators": "David Medberry" },
-        { "coordinator-emails": "david.medberry@canonical.com" }
+        { "coordinators": "David Medberry;Randy Levensalor" },
+        { "coordinator-emails": "meetup@medberry.net;randymartini@gmail.com" }
       ]
     },
     {
@@ -331,6 +331,16 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Triangle-OpenStack-Meetup/" }
+      ]
+    },
+    {
+      "title": "Orange County",
+      "location": {
+        "country": "US",
+        "continent": "NA"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStackOC/" }
       ]
     },
     {
@@ -773,6 +783,7 @@
       },
       "attributes": [
         { "linkedin": "http://tinyurl.com/openstackfinland" },
+        { "meetup": "http://www.meetup.com/OpenStack-Finland-User-Group" },
         { "twitter": "@OpenstackFIN" },
         { "coordinators": "Ilkka Tengvall" },
         { "coordinator-emails": "Ilkka.Turunen@cybercom.com" }
