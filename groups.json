@@ -1268,6 +1268,20 @@
          { "twitter": "@OpenStackUAE" },
          { "coordinator-emails": "dce3062@gmail.com" }
       ]
+    },
+    {
+      "title": "Baden-Württemberg",
+      "id": "c9009efa-bc73-4b8e-96a1-e6879014a23c",
+      "location": {
+        "country": "DE",
+        "continent": "EU",
+        "lat": "48.7823200",
+        "lng": "9.1770200"
+      },
+      "attributes": [
+         { "meetup": "http://www.meetup.com/OpenStack-Baden-Wuerttemberg/" },
+         { "coordinators": "Christian Berendt, Michael Weisbach, Thomas Kärgel" }
+      ]
     }
   ]
 }
