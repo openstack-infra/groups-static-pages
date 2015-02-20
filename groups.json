@@ -13,7 +13,7 @@
       "attributes": [
          { "meetup": "http://www.meetup.com/openstack-atlanta" },
          { "irc": "irc://irc.freenode.net/openstack-atlanta%7C#openstack-atlanta" },
-         { "coordinators": "Doug Hellmann;Mark McClain" },
+         { "coordinators": "Doug Hellmann <doug.hellmann@gmail.com>;Mark McClain <mark.mcclain@dreamhost.com>" },
          { "coordinator-emails": "doug.hellmann@gmail.com;mark.mcclain@dreamhost.com" }
       ]
     },
@@ -29,7 +29,7 @@
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/openstack-austin" },
-         { "coordinators": "Jean Maire Martini;Rob Hirschfeld" },
+         { "coordinators": "Jean Maire Martini <jean_marie_martini@dell.com>;Rob Hirschfeld <rob_hirschfeld@dell.com>" },
          { "coordinator-emails": "rob_hirschfeld@dell.com; simon_jakesch@dell.com; jean_marie_martini@dell.com" }
 
       ]
@@ -46,6 +46,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/Openstack-Boston" },
+        { "coordinators": "Kamesh Pemmaraju <Kamesh_Pemmaraju@Dell.com>" },
         { "coordinator-emails": "Kamesh_Pemmaraju@Dell.com" }
       ]
     },
@@ -68,7 +69,7 @@
          { "google-groups": "http://groups.google.com/group/canada-openstack-user-group" },
          { "linkedin": "http://www.linkedin.com/groups/OpenStack-Canada-4151460" },
          { "google-groups": "http://groups.google.com/group/openstack-canada" },
-         { "coordinators": "Curtis Collicutt;Barton Satchwill;Adin;Jonathan LeLous" },
+         { "coordinators": "Curtis Collicutt <curtis.collicutt@cybera.ca>;Barton Satchwill <barton.satchwill@cybera.ca>;Adin <adin@scannell.ca>;Jonathan LeLous <jonathan.lelous@gmail.com<" },
          { "coordinator-emails": " curtis.collicutt@cybera.ca;barton.satchwill@cybera.ca; adin@scannell.ca; jonathan.lelous@gmail.com" }
       ]
     },
@@ -84,7 +85,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/meetup-group-NjZdcegA" },
-        { "coordinators": "Margie Callard" },
+        { "coordinators": "Margie Callard <margie@openstack.org>" },
         { "coordinator-emails": "margie@openstack.org" }
       ]
     },
@@ -98,7 +99,7 @@
         "lng": "-95.712891000000"
       },
       "attributes": [
-        { "coordinators": "Bev Corwin" },
+        { "coordinators": "Bev Corwin <bevcorwin@gmail.com>" },
         { "coordinator-emails": "bevcorwin@gmail.com" },
         { "meetup": "http://www.meetup.com/openstack-cincinnati/" }
       ]
@@ -114,7 +115,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Colorado" },
-        { "coordinators": "David Medberry;Randy Levensalor" },
+        { "coordinators": "David Medberry <meetup@medberry.net>;Randy Levensalor <randymartini@gmail.com>" },
         { "coordinator-emails": "meetup@medberry.net;randymartini@gmail.com" }
       ]
     },
@@ -131,7 +132,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Denver" },
         { "twitter": "#OSROCK" },
-        { "coordinators": "Scott Lowe" },
+        { "coordinators": "Scott Lowe <scott.lowe@scottlowe.org>" },
         { "coordinator-emails": "scott.lowe@scottlowe.org" }
       ]
     },
@@ -164,7 +165,7 @@
         { "meetup": "http://www.meetup.com/Openstack-Connecticut" },
         { "google-plus": "https://plus.google.com/u/0/communities/106463180296945913906#OpenStackCT" },
         { "twitter": "@OpenStackCT" },
-        { "coordinators": "Fran Loehmann;James Ruddy;Kenneth Hui" },
+        { "coordinators": "Fran Loehmann <fran.loehmann@gmail.com>;James Ruddy <ruddy.james@gmail.com>;Kenneth Hui <ken.hui@rackspace.com>" },
         { "coordinator-emails": "fran.loehmann@gmail.com;ruddy.james@gmail.com;ken.hui@rackspace.com" }
       ]
     },
@@ -197,7 +198,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStackDC" },
         { "linkedin": "http://www.linkedin.com/groups?gid=4207039" },
-        { "coordinators": "Haisam Idol" },
+        { "coordinators": "Haisam Idol <haisam.ido@gmail.com>" },
         { "coordinator-emails": "haisam.ido@gmail.com" },
         { "twitter": "@OpenStackDC" }
       ]
@@ -215,7 +216,7 @@
         { "linkedin": "http://www.linkedin.com/groups?gid=4762393" },
         { "facebook": "http://www.facebook.com/FloridaOpenstack" },
         { "google-groups": "https://groups.google.com/d/forum/openstack-florida" },
-        { "coordinators": "Trevor Lowing" },
+        { "coordinators": "Trevor Lowing <haisam.ido@gmail.com>" },
         { "coordinator-emails": "trevor.lowing@gmail.com" }
       ]
     },
@@ -231,7 +232,7 @@
       "attributes": [
         { "meetup": "http://tinyurl.com/7k8b7mr" },
         { "forum": "https://portal.futuregrid.org/forums/fg-user-services-forum/openstack" },
-        { "coordinators": "Gregor von Laszewski" },
+        { "coordinators": "Gregor von Laszewski <laszewski@gmail.com>" },
         { "coordinator-emails": "laszewski@gmail.com" }
       ]
     },
@@ -246,7 +247,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Kentucky" },
-        { "coordinators": "Cody Bumgardner" },
+        { "coordinators": "Cody Bumgardner <laszewski@gmail.com>" },
         { "coordinator-emails": "cbumgardner@gmail.com" }
       ]
     },
@@ -264,7 +265,7 @@
         { "meetup": "http://www.meetup.com/OpenStack-LA" },
         { "linkedin": "http://www.linkedin.com/groups?gid=4327316" },
         { "twitter": "#OSLAX" },
-        { "coordinators": "Mike Perez;Matthew Wodrich " },
+        { "coordinators": "Mike Perez <mike.perez@dreamhost.com>;Matthew Wodrich <matt.wodrich@dreamhost.com>" },
         { "coordinator-emails": "mike.perez@dreamhost.com;matt.wodrich@dreamhost.com" },
         { "website": "http://vimeopro.com/dreamhost/openstack-la-meetup" }
       ]
@@ -279,7 +280,7 @@
         "lng": "-95.712891000000"
       },
       "attributes": [
-        { "coordinators": "Eric Detterman" },
+        { "coordinators": "Eric Detterman <eric.detterman@solidlogic.com>" },
         { "coordinator-emails": "eric.detterman@solidlogic.com" }
       ]
     },
@@ -293,7 +294,7 @@
         "lng": "-95.712891000000"
       },
       "attributes": [
-         { "coordinators": "Kyle Mestery" },
+         { "coordinators": "Kyle Mestery <kmestery@cisco.com>" },
          { "coordinator-emails": "kmestery@cisco.com" },
          { "twitter": "@OpenStackMN" },
          { "linkedin": "http://www.linkedin.com/groups/Twin-Cities-OpenStack-Users-Group-4430771" }
@@ -316,7 +317,7 @@
          { "twitter": "@OpenStackNYC" },
          { "twitter": "#OpenStackNYC" },
          { "email": "openstacknyc@gmail.com" },
-         { "coordinators": "Denis Guyadeen;Judd Maltin;Kenneth Hui;Steve Pessah" },
+         { "coordinators": "Denis Guyadeen <denis.guyadeen@emc.com>;Judd Maltin <judd@newgoliath.com>;Kenneth Hui <ken.hui@rackspace.com>;Steve Pessah <steve@appfirst.com>" },
          { "coordinator-emails": "denis.guyadeen@emc.com;judd@newgoliath.com;ken.hui@rackspace.com;steve@appfirst.com" }
       ]
     },
@@ -358,7 +359,7 @@
         { "meetup": "http://www.meetup.com/Philly-OpenStack-Meetup-Group" },
         { "twitter": "@OpenStackPhilly" },
         { "twitter": "#OpenStackPhilly" },
-        { "coordinators": "Kenneth Hui;Paul Richards;Sean Collins;Wes Yeager" },
+        { "coordinators": "Kenneth Hui <ken.hui@rackspace.com>;Paul Richards <epaulrichards@gmail.com>;Sean Collins;Wes Yeager <wesyeager@cisco.com>" },
         { "coordinator-emails": "ken.hui@rackspace.com;epaulrichards@gmail.com;wesyeager@cisco.com" }
       ]
     },
@@ -375,7 +376,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/SA-Open-Stackers/" },
         { "google-plus": "https://plus.google.com/communities/104303691151444174690" },
-        { "coordinators": "Max Wen" },
+        { "coordinators": "Max Wen <mobiwen@gmail.com>" },
         { "coordinator-emails": "mobiwen@gmail.com" }
       ]
     },
@@ -391,7 +392,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/openstack" },
-        { "coordinators": "Joe Arnold;Sean Roberts;Colin McNamara;Randy Bias" },
+        { "coordinators": "Joe Arnold <joe@swiftstack.com>;Sean Roberts <seanrob@yahoo-inc.com>;Colin McNamara <colin@2cups.com>;Randy Bias <randyb@cloudscaling.com>" },
         { "coordinator-emails": "joe@swiftstack.com;seanrob@yahoo-inc.com; colin@2cups.com; randyb@cloudscaling.com" }
       ]
     },
@@ -408,7 +409,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Seattle" },
         { "calendar": "http://www.meetup.com/OpenStack-Seattle/events/calendar" },
-        { "coordinators": "Mark Atwood;Joe Heck" },
+        { "coordinators": "Mark Atwood <mark.atwood@hp.com>;Joe Heck <heckj@mac.com>" },
         { "coordinator-emails": "mark.atwood@hp.com;heckj@mac.com" }
       ]
     },
@@ -439,7 +440,7 @@
       },
       "attributes": [
         { "google-plus": "https://plus.google.com/u/0/communities/106463180296945913906" },
-        { "coordinators": "Adam Nelson"},
+        { "coordinators": "Adam Nelson <adam@kili.io>"},
         { "coordinator-emails": "adam@kili.io"}
       ]
     },
@@ -481,7 +482,7 @@
       "attributes": [
         { "meetup": "http://aosug.openstack.org.au" },
         { "google-groups": "http://groups.google.com/group/openstack-au" },
-        { "coordinators": "Tristan Goode;Tom Fifield" },
+        { "coordinators": "Tristan Goode <tristan@aptira.com>;Tom Fifield <tom@openstack.org>" },
         { "coordinator-emails": "tristan@aptira.com;tom@openstack.org" },
         { "twitter": "@OpenStackAU" }
       ]
@@ -511,7 +512,7 @@
       "attributes": [
         { "google-groups": "http://groups.google.com/group/china-openstack-user-group" },
         { "weibo": "@OpenStack" },
-        { "coordinators": "Hui Cheng;Yujie Du;Ye Lu" },
+        { "coordinators": "Hui Cheng <freedomhui@gmail.com>;Yujie Du <duyujie.dyj@gmail.com>;Ye Lu <yeluaiesec@gmail.com>" },
         { "coordinator-emails": "freedomhui@gmail.com;duyujie.dyj@gmail.com;yeluaiesec@gmail.com" }
       ]
     },
@@ -531,7 +532,7 @@
         { "forum": "https://groups.google.com/d/forum/hong-kong-cloud-technology-sig" },
         { "google-plus": "https://plus.google.com/u/0/communities/112611801924078008731" },
         { "meetup": "http://www.meetup.com/Hong-Kong-OpenStack-User-Group" },
-        { "coordinators": "Raymond Chan;Alison Tam" },
+        { "coordinators": "Raymond Chan <raymondchan@cyberport.hk>;Alison Tam <alisontam@cyberport.hk>" },
         { "coordinator-emails": "raymondchan@cyberport.hk;alisontam@cyberport.hk" }
       ]
     },
@@ -552,7 +553,7 @@
         { "linkedin": "http://www.linkedin.com/groups/OpenStack-India-4005742" },
         { "twitter": "@openstackindia" },
         { "slideshare": "http://www.slideshare.net/openstackindia" },
-        { "coordinators": "Kavit Munshi;Atul Jha;Sajid Akhtar" },
+        { "coordinators": "Kavit Munshi <kavit@aptira.com>;Atul Jha <koolhead17@gmail.com>;Sajid Akhtar <mail2akhtar@gmail.com>" },
         { "coordinator-emails": "kavit@aptira.com; koolhead17@gmail.com; mail2akhtar@gmail.com" }
       ]
     },
@@ -582,7 +583,7 @@
       "attributes": [
         { "website": "http://www.openstack-id.org" },
         { "facebook": "https://www.facebook.com/openstack.id" },
-        { "coordinators": "Frans" },
+        { "coordinators": "Frans <frans@meruvian.org>" },
         { "coordinator-emails": "frans@meruvian.org" }
       ]
     },
@@ -596,7 +597,7 @@
         "lng": "138.252924000000"
       },
       "attributes": [
-         { "coordinators": "Hasegawa-san, Yoshiyama-san" },
+         { "coordinators": "Hasegawa-san <hasegawa@bit-isle.co.jp>;Yoshiyama-san <akirayoshiyama@gmail.com>" },
          { "coordinator-emails": "hasegawa@bit-isle.co.jp;akirayoshiyama@gmail.com" },
          { "facebook": "https://www.facebook.com/pages/OpenStack-Japan/164169673621965" },
          { "website": "http://openstack.jp/" },
@@ -613,6 +614,7 @@
         "lng": "101.975766000000"
       },
       "attributes": [
+         { "coordinator": "Khairul Aizat Kamarudzzaman <fenris@ubuntu.com>;Mohammad Hafiz bin Ismail <mypapit@gmail.com>" },
          { "coordinator-emails": "fenris@ubuntu.com; mypapit@gmail.com" },
          { "facebook": "https://www.facebook.com/groups/openstackmy" }
       ]
@@ -627,7 +629,7 @@
         "lng": "121.774017000000"
       },
       "attributes": [
-         { "coordinators": "Mary Ann Camo, Dean Marc Co, Mary Rose Oh " },
+         { "coordinators": "Mary Ann Camo <mac@dungeoninnovations.com>, Dean Marc Co <dmc@dungeoninnovations.com>, Mary Rose Oh <mro@dungeoninnovations.com>" },
          { "coordinator-emails": "dmc@dungeoninnovations.com, mac@dungeoninnovations.com,  mro@dungeoninnovations.com" },
          { "ml": "https://groups.google.com/forum/?hl=en#!forum/openstack-philippines"}
       ]
@@ -660,7 +662,7 @@
         "lng": "127.766922000000"
       },
       "attributes": [
-         { "coordinators": "Nalee Jang" },
+         { "coordinators": "Nalee Jang <nalee999@gmail.com>" },
          { "coordinator-emails": "nalee999@gmail.com" },
          { "google-plus": "https://plus.google.com/communities/104978679354261194990" },
          { "facebook": "https://www.facebook.com/groups/openstack.kr/" },
@@ -677,7 +679,7 @@
         "lng": "120.960515000000"
       },
       "attributes": [
-         { "coordinators": "Yoyo Chiang;Mac Jack;Tom Fifield" },
+         { "coordinators": "Yoyo Chiang <yoyochiang@itri.org.tw>;Mac Jack <macjacktw@hotmail.com>;Tom Fifield <tom@openstack.org>" },
          { "coordinator-emails": "yoyochiang@itri.org.tw, macjacktw@hotmail.com, tom@openstack.org" },
          { "facebook": " https://www.facebook.com/groups/180981535428325/"}
       ]
@@ -708,7 +710,7 @@
         "lng": "108.277199000000"
       },
       "attributes": [
-         { "coordinators": "Hang Tran" },
+         { "coordinators": "Hang Tran <hang.tran@dtt.vn>" },
          { "coordinator-emails": "hang.tran@dtt.vn" },
          { "facebook": "https://www.facebook.com/VietOpenStack" }
       ]
@@ -738,7 +740,7 @@
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=4817141" },
-        { "coordinators": "Karel Striegel" },
+        { "coordinators": "Karel Striegel <karel.striegel@gmail.com>" },
         { "coordinator-emails": "karel.striegel@gmail.com" }
       ]
     },
@@ -753,7 +755,7 @@
       },
       "attributes": [
         { "linkedin": "http://www.linkedin.com/groups?gid=5154754&trk" },
-         { "coordinators": "Alexandra Mechkova" },
+         { "coordinators": "Alexandra Mechkova <info@openstackbg.com>" },
          { "coordinator-emails": " info@openstackbg.com" },
          { "website": "http://openstack.bg" }
       ]
@@ -786,7 +788,7 @@
         { "linkedin": "http://tinyurl.com/openstackfinland" },
         { "meetup": "http://www.meetup.com/OpenStack-Finland-User-Group" },
         { "twitter": "@OpenstackFIN" },
-        { "coordinators": "Ilkka Tengvall" },
+        { "coordinators": "Ilkka Tengvall <Ilkka.Turunen@cybercom.com>" },
         { "coordinator-emails": "Ilkka.Turunen@cybercom.com" }
       ]
     },
@@ -806,7 +808,7 @@
         { "irc": "#openstack-fr" },
         { "meetup": "http://www.meetup.com/OpenStack-France" },
         { "meetup": "http://www.meetup.com/OpenStack-Rhone-Alpes" },
-        { "coordinators": "Erwan Gallen;Pierre Freund" },
+        { "coordinators": "Erwan Gallen <erwan@erwan.com>;Pierre Freund <pierre.freund@osones.com>" },
         { "coordinator-emails": "erwan@erwan.com;pierre.freund@osones.com" }
       ]
     },
@@ -822,7 +824,7 @@
       "attributes": [
         { "meetup": "https://www.xing.com/net/pri3642a8x/openstack-germany/" },
         { "meetup": "http://www.meetup.com/OpenStack-DACH/" },
-        { "coordinators": "Christian Berendt" },
+        { "coordinators": "Christian Berendt <berendt@b1-systems.de>" },
         { "coordinator-emails": "berendt@b1-systems.de" },
         { "twitter": "@openstack_de" }
       ]
@@ -839,7 +841,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/Athens-OpenStack-User-Group" },
         { "google-plus": "https://plus.google.com/communities/113761625022392052075" },
-        { "coordinators": "Thanassis Parathyras" },
+        { "coordinators": "Thanassis Parathyras <aparathyras@stackmasters.eu>" },
         { "coordinator-emails": "aparathyras@stackmasters.eu" }
       ]
     },
@@ -854,7 +856,7 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Hungary-Meetup-Group/" },
-        { "coordinators": "Marton Kiss;Gergely Szalay" },
+        { "coordinators": "Marton Kiss <marton.kiss@gmail.com>;Gergely Szalay <gregs@gmx.co.uk>" },
         { "coordinator-emails": "marton.kiss@gmail.com;gregs@gmx.co.uk" }
       ]
     },
@@ -870,7 +872,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Ireland" },
         { "twitter": "@OpenstackIRL" },
-        { "coordinators": "Tim Horgan" },
+        { "coordinators": "Tim Horgan <tim.horgan@cit.ie>" },
         { "coordinator-emails": "tim.horgan@cit.ie" }
       ]
     },
@@ -886,7 +888,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-User-Group-Italia/" },
         { "mailing-list": "http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-it" },
-        { "coordinators": "David Guerri;Stefano Maffulli" },
+        { "coordinators": "David Guerri <davide.guerri@gmail.com>;Stefano Maffulli <stefano@openstack.org>" },
         { "coordinator-emails": "davide.guerri@gmail.com;stefano@openstack.org" }
       ]
     },
@@ -919,7 +921,7 @@
         { "meetup": "http://www.meetup.com/OpenStack-User-Group-Nordics/" },
         { "linkedin": "http://www.linkedin.com/groups/OpenStack-Nordics-4764289" },
         { "twitter": "@OSNordics" },
-        { "coordinators": "N Paladi" },
+        { "coordinators": "N Paladi <n.paladi@gmail.com>" },
         { "coordinator-emails": "n.paladi@gmail.com" }
       ]
     },
@@ -950,7 +952,7 @@
       },
       "attributes": [
   { "meetup": "http://www.meetup.com/Openstack-Bucharest/" },
-  { "coordinator": "Adrian Moti" },
+  { "coordinators": "Adrian Moti <adrian_moti@yahoo.com>" },
   { "coordinator-email": "adrian_moti@yahoo.com" }
       ]
     },
@@ -1042,7 +1044,7 @@
       "attributes": [
         { "meetup": "http://www.meetup.com/openstack-ch/" },
         { "twitter": "http://openstack.ch/" },
-        { "coordinators": "Andy Edmonds;Antonio Cimmino" },
+        { "coordinators": "Andy Edmonds <edmo@zhaw.ch>;Antonio Cimmino <cimm@zhaw.ch>" },
         { "coordinator-emails": "edmo@zhaw.ch;cimm@zhaw.ch" }
       ]
     },
@@ -1114,7 +1116,7 @@
       },
       "attributes": [
          { "google-plus": " https://plus.google.com/u/0/communities/104762267854890735702" },
-         { "coordinators": "Alfonso" },
+         { "coordinators": "Alfonso <alfonsodg@gmail.com>" },
          { "coordinator-emails": " alfonsodg@gmail.com" }
       ]
     },
@@ -1197,7 +1199,7 @@
         "lng": "53.688046000000"
       },
       "attributes": [
-         { "coordinators": "Roozbeh Shafiee" },
+         { "coordinators": "Roozbeh Shafiee <Roozbeh.Shafiee@Gmail.Com>" },
          { "coordinator-emails": "Roozbeh.Shafiee@Gmail.Com" },
          { "twitter": "https://twitter.com/OpenStackIR" },
          { "website": "http://openstack.ir" }
@@ -1219,7 +1221,7 @@
          { "linkedin": "http://www.linkedin.com/groups/OpenStack-Community-Israel-4287586" },
          { "google-plus": "https://plus.google.com/117594259110700109152/posts" },
          { "twitter": "@OpenStackIL" },
-         { "coordinators": "Nati Shalom" },
+         { "coordinators": "Nati Shalom <natis@gigaspaces.com>" },
          { "coordinator-emails": "natis@gigaspaces.com" }
       ]
     },
@@ -1234,7 +1236,7 @@
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/Morocco-OpenStack-Users-Group" },
-         { "coordinators": "Yousef Largo" },
+         { "coordinators": "Yousef Largo <largou@forumin.co.ma>" },
          { "coordinator-emails": "largou@forumin.co.ma" }
       ]
     },
@@ -1280,7 +1282,7 @@
       },
       "attributes": [
          { "meetup": "http://www.meetup.com/OpenStack-Baden-Wuerttemberg/" },
-         { "coordinators": "Christian Berendt, Michael Weisbach, Thomas Kärgel" }
+         { "coordinators": "Christian Berendt <mail@cberendt.net>, Michael Weisbach, Thomas Kärgel" }
       ]
     }
   ]
