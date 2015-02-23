@@ -754,6 +754,7 @@
         "lng": "4.469936000000"
       },
       "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Belgium-Meetup" },
         { "linkedin": "http://www.linkedin.com/groups?gid=4817141" },
         { "coordinators": "Karel Striegel <karel.striegel@gmail.com>" },
         { "coordinator-emails": "karel.striegel@gmail.com" }
@@ -769,6 +770,7 @@
         "lng": "25.485830000000"
       },
       "attributes": [
+         { "meetup": "http://www.meetup.com/OpenStack-Bulgaria" },
         { "linkedin": "http://www.linkedin.com/groups?gid=5154754&trk" },
          { "coordinators": "Alexandra Mechkova <info@openstackbg.com>" },
          { "coordinator-emails": " info@openstackbg.com" },
@@ -1010,6 +1012,7 @@
         "lng": "14.995463000000"
       },
       "attributes": [
+        { "meetup": "http://www.meetup.com/Slovenia-Stack-Meetup" },
   { "forum": "https://groups.google.com/forum/?fromgroups#!forum/openstack-slovenija" },
   { "linkedin": "http://www.linkedin.com/groups/OpenStack-Slovenija-4793209?trk=myg_ugrp_ovr" },
   { "facebook": "https://www.facebook.com/OpenstackSlovenija" }
