@@ -90,6 +90,21 @@
       ]
     },
     {
+      "title": "Baltimore",
+      "id": "75c86812-6e1a-4de7-9a1b-6d80ca71b653",
+      "location": {
+        "country": "US",
+        "continent": "NA",
+        "location": "Baltimore",
+        "lat": "39.290458",
+        "lng": "-76.612365"
+      },
+      "attributes": [
+        { "meetup": "http://www.meetup.com/OpenStack-Baltimore" },
+        { "coordinators": "Chris Williams" }
+      ]
+    },
+    {
       "title": "Cincinnati",
       "id": "4ff63bb0-ac60-48b0-9cda-cea307bbd243",
       "location": {
