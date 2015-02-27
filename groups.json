@@ -115,8 +115,7 @@
       },
       "attributes": [
         { "coordinators": "Bev Corwin <bevcorwin@gmail.com>" },
-        { "coordinator-emails": "bevcorwin@gmail.com" },
-        { "meetup": "http://www.meetup.com/openstack-cincinnati/" }
+        { "coordinator-emails": "bevcorwin@gmail.com" }
       ]
     },
     {
@@ -161,8 +160,7 @@
         "lng": "-95.712891000000"
       },
       "attributes": [
-         { "coordinators": "Donovan Johnson" },
-         { "meetup": "http://www.meetup.com/OpenStack-Ohio-User-Group/" }
+         { "coordinators": "Donovan Johnson" }
       ]
     },
 
@@ -423,7 +421,6 @@
       },
       "attributes": [
         { "meetup": "http://www.meetup.com/OpenStack-Seattle" },
-        { "calendar": "http://www.meetup.com/OpenStack-Seattle/events/calendar" },
         { "coordinators": "Mark Atwood <mark.atwood@hp.com>;Joe Heck <heckj@mac.com>" },
         { "coordinator-emails": "mark.atwood@hp.com;heckj@mac.com" }
       ]
@@ -1253,7 +1250,6 @@
         "lng": "-7.092620000000"
       },
       "attributes": [
-         { "meetup": "http://www.meetup.com/Morocco-OpenStack-Users-Group" },
          { "coordinators": "Yousef Largo <largou@forumin.co.ma>" },
          { "coordinator-emails": "largou@forumin.co.ma" }
       ]
