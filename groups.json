@@ -13,8 +13,8 @@
       "attributes": [
          { "meetup": "http://www.meetup.com/openstack-atlanta" },
          { "irc": "irc://irc.freenode.net/openstack-atlanta%7C#openstack-atlanta" },
-         { "coordinators": "Doug Hellmann <doug.hellmann@gmail.com>;Mark McClain <mark.mcclain@dreamhost.com>" },
-         { "coordinator-emails": "doug.hellmann@gmail.com;mark.mcclain@dreamhost.com" }
+         { "coordinators": "Doug Hellmann <doug@doughellmann.com>;Mark McClain <mark.mcclain@gmail.com>;Michael Solberg <msolberg@redhat.com>" },
+         { "coordinator-emails": "doug@doughellmann.com;mark.mcclain@gmail.com;msolberg@redhat.com" }
       ]
     },
     {
