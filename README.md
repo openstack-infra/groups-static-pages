@@ -8,9 +8,11 @@ can easily add or modify new content using the standard
 Structure
 ---------
 
-Every .md file here define a specific page of the site, and consits of
-a yaml style header to describe meta informations like title of the
-page, content path, menu item, etc. and a markdown body.
+Every .md file here defines a specific page of the site, and consists
+of a yaml style header to describe meta information such as the title
+of the page, content path, menu item, etc. The body of the file is
+formatted in
+[Markdown](http://daringfireball.net/projects/markdown/syntax).
 
 Example:
 
