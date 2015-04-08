@@ -3,7 +3,7 @@ OpenStack Community portal static pages
 
 This repository holds the static content of groups.openstack.org website. You
 can easily add or modify new content using the standard 
-[OpenStack CI workflow](https://wiki.openstack.org/wiki/Gerrit_Workflow).
+[OpenStack CI workflow](http://docs.openstack.org/infra/manual/developers.html#development-workflow).
 
 Structure
 ---------
