@@ -20,9 +20,9 @@ Steps to Success
 We help User Groups get through the following steps before noting them as
 Official User Groups, and issuing them with an OpenStack User Group logo:
 
-1.    Agreed to Social Media and Event Policy (TEST: tickbox in portal)
+1.    Agreed to Social Media and Event Policy (TEST: tickbox in portal, as part of group settings)
 
-2.    Complete group contact information entered in portal (TEST: portal completeness % - need name, organiser email>1, URL>1)
+2.    Complete group contact information entered in portal (TEST: need group name, description, more than one organiser profile with emails registered, at least one URL to a meetup site or similar)
 
 3.    Group organised and coordinated, multiple people from diverse employment involved in organisation, impartial (TEST: coordinators listed in portal, Community Managers + ambassadors to validate organisation, coordination and diversity)
 
