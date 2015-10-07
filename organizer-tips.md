@@ -118,29 +118,29 @@ Example Planning Schedule
 -------------------------
 This is an example planning schedule from the SFBay OpenStack User Group.
 
-1. Establish dates and times at least 6 months in advance
-2. Schedule speakers, assistants at least a month in advance
-3. Schedule tweets and emails to go out 7, 2, 1, and 0 days before the meetup reminding possible attendees of the meetup.  Examples below
-  * T-7 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
-  * T-2 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
-  * T-1 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening tomorrow at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
-  * T-0 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening today at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
-- Schedule an email to go out to the community mailing list with the same content
-  * To: community@lists.openstack.org
-  * Subject: [[OpenStack]] SFBay hackathon next Thursday
-  * Body: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at
-  * #Yahoo Sunnyvale, RSVP via http://meetup.com/openstack, webex avail. More updates via @sarob
-4. Book your meeting space at least 1 month in advance
-5. Notify security about the meetup and so they can provide directions so
-   visitors do not get lost
-6. Order the food at least 3 days in advance. A good gauge is about 70% of the
-   RSVPs actually show up. Better topics get a higher percentage turnout.
-7. Prep the room about an hour before the meetup. Check the AV equipment,
-  power strips, seats, food, drink, and white boards are ready to go. Setup
-  the video camera, so you know where the static viewing area is. Line up
-  the projector screen to be in the picture. Lay down a tape box where the
-  speaker should stand. Dial into the audio conference line. If you are using
-  webex or youtube, check for connection to the remote server.
-8. Post Meetup: After the meeting, you can prepare a summary blog post with
-   images, links to video, marketing updates for the OpenStack blog.
+    1. Establish dates and times at least 6 months in advance
+    2. Schedule speakers, assistants at least a month in advance
+    3. Schedule tweets and emails to go out 7, 2, 1, and 0 days before the meetup reminding possible attendees of the meetup.  Examples below
+      * T-7 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
+      * T-2 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
+      * T-1 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening tomorrow at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
+      * T-0 day 11:30: @[[OpenStack]] #OSSFO hackathon meetup happening today at #Yahoo Sunnyvale, RSVP via ow.ly/g2V3u, webex avail
+    - Schedule an email to go out to the community mailing list with the same content
+      * To: community@lists.openstack.org
+      * Subject: [[OpenStack]] SFBay hackathon next Thursday
+      * Body: @[[OpenStack]] #OSSFO hackathon meetup happening next Thursday at
+      * #Yahoo Sunnyvale, RSVP via http://meetup.com/openstack, webex avail. More updates via @sarob
+    4. Book your meeting space at least 1 month in advance
+    5. Notify security about the meetup and so they can provide directions so
+       visitors do not get lost
+    6. Order the food at least 3 days in advance. A good gauge is about 70% of the
+       RSVPs actually show up. Better topics get a higher percentage turnout.
+    7. Prep the room about an hour before the meetup. Check the AV equipment,
+      power strips, seats, food, drink, and white boards are ready to go. Setup
+      the video camera, so you know where the static viewing area is. Line up
+      the projector screen to be in the picture. Lay down a tape box where the
+      speaker should stand. Dial into the audio conference line. If you are using
+      webex or youtube, check for connection to the remote server.
+    8. Post Meetup: After the meeting, you can prepare a summary blog post with
+       images, links to video, marketing updates for the OpenStack blog.
 
