@@ -144,3 +144,31 @@ This is an example planning schedule from the SFBay OpenStack User Group.
     8. Post Meetup: After the meeting, you can prepare a summary blog post with
        images, links to video, marketing updates for the OpenStack blog.
 
+
+User Groups covering larger geographical areas
+----------------------------------------------
+The exact spread of a user group, in terms of the area it covers and how it is
+managed, depends on the needs of the area and its cultural norms. Some regions
+value independence and autonomy (eg a city taking care of its own needs),
+whereas others prefer more coordination and sharing (a nationally coordinated
+group with meetings in multiple cities). This section aims to provide some
+examples of the latter:
+- Australia - Due to the sparse population, the group is centrally coordinated
+  at a national level, with one group entry and meetup.com page. Local
+  organisers in each city arrange events to post on the central page, and
+  national coordinators help share speakers and organisational practices
+  between cities.
+- China - There are leaders in several cities who organise the local meetup
+  group there, and each city has their own group entry/meetup.com page.
+  However, for national events such as China Day, and to help start and mentor
+  new groups, leaders based in various locations come together to collaborate
+  nation-wide. Some highly respected leaders are granted administrative rights
+  over the meetup.com pages of the local city groups, in addition to the local
+  organisers.
+- India - A strong national-level group helps mentor leaders in many cities,
+  and organises nation-wide events like India Day. Local groups organise
+  events and post them on single group entry/meetup.com page.
+- USA - no national coordination, each city has a completely separate
+  meetup.com group and organising team. Coordinated loosely by ambassadors,
+  using the Official User Group Process to avoid overlapping claims.
+
