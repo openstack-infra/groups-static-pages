@@ -153,6 +153,7 @@ value independence and autonomy (eg a city taking care of its own needs),
 whereas others prefer more coordination and sharing (a nationally coordinated
 group with meetings in multiple cities). This section aims to provide some
 examples of the latter:
+
 - Australia - Due to the sparse population, the group is centrally coordinated
   at a national level, with one group entry and meetup.com page. Local
   organisers in each city arrange events to post on the central page, and
