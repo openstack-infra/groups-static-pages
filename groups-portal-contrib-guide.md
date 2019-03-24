@@ -100,7 +100,7 @@ contrib modules, patches, themes and libraries.
 Fetch the git repository and clone a working copy, then build the distribution
 into site vhost directory:
 
-    $ git clone git://git.openstack.org/openstack-infra/groups groups
+    $ git clone https://git.openstack.org/openstack-infra/groups groups
     $ cd groups
     $ bash scripts/dev-build.sh /var/www/groups-dev.local
 
@@ -141,7 +141,7 @@ clone to a local directory from openstack-infra/groups-static-pages repository
 and don't forget to set the groups_feeds_markdown_directory variable to
 specify the location of the files
 
-    $ git://git.openstack.org/openstack-infra/groups-static-pages /var/www/groups-static-pages
+    $ https://git.openstack.org/openstack-infra/groups-static-pages /var/www/groups-static-pages
     $ drush vset groups_feeds_markdown_directory /var/www/groups-static-pages
     $ drush import-static-pages
 
